@@ -1,14 +1,14 @@
 {
   "name": "Sinestrea",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Sinestrea",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Bonlinhgay.aternos.me",
     "port": 27865,
-    "version": "26.1.2",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
